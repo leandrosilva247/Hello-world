@@ -1,2 +1,6 @@
 one
+<<<<<<< HEAD
 three
+=======
+two
+
